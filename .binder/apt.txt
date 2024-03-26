@@ -1,4 +1,10 @@
 git
+default-jre
+mc
+p7zip
+p7zip-full 
+p7zip-rar 
+unrar
 libunwind-dev
 libudunits2-dev
 libgdal-dev
